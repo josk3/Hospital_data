@@ -1,56 +1,56 @@
 grade = {
-    # 2: {
-    #     'grade_url': 2,
-    #     'grade_name': '三甲'
-    # },
-    # 3: {
-    #     'grade_url': 3,
-    #     'grade_name': '三乙'
-    # },
-    # 4: {
-    #     'grade_url': 4,
-    #     'grade_name': '三丙'
-    # },
-    # 12: {
-    #     'grade_url': 12,
-    #     'grade_name': '三级'
-    # },
-    # 5: {
-    #     'grade_url': 5,
-    #     'grade_name': '二甲'
-    # },
-    # 6: {
-    #     'grade_url': 6,
-    #     'grade_name': '二乙'
-    # },
-    # 7: {
-    #     'grade_url': 7,
-    #     'grade_name': '二丙'
-    # },
-    # 13: {
-    #     'grade_url': 13,
-    #     'grade_name': '二级'
-    # },
-    # 8: {
-    #     'grade_url': 8,
-    #     'grade_name': '一甲'
-    # },
+    2: {
+        'grade_url': 2,
+        'grade_name': '三甲'
+    },
+    3: {
+        'grade_url': 3,
+        'grade_name': '三乙'
+    },
+    4: {
+        'grade_url': 4,
+        'grade_name': '三丙'
+    },
+    12: {
+        'grade_url': 12,
+        'grade_name': '三级'
+    },
+    5: {
+        'grade_url': 5,
+        'grade_name': '二甲'
+    },
+    6: {
+        'grade_url': 6,
+        'grade_name': '二乙'
+    },
+    7: {
+        'grade_url': 7,
+        'grade_name': '二丙'
+    },
+    13: {
+        'grade_url': 13,
+        'grade_name': '二级'
+    },
+    8: {
+        'grade_url': 8,
+        'grade_name': '一甲'
+    },
     9: {
         'grade_url': 9,
         'grade_name': '一乙'
     },
-    # 10: {
-    #     'grade_url': 10,
-    #     'grade_name': '一丙'
-    # },
-    # 14: {
-    #     'grade_url': 14,
-    #     'grade_name': '一级'
-    # },
-    # 15: {
-    #     'grade_url': 15,
-    #     'grade_name': '未定级'
-    # },
+    10: {
+        'grade_url': 10,
+        'grade_name': '一丙'
+    },
+    14: {
+        'grade_url': 14,
+        'grade_name': '一级'
+    },
+    15: {
+        'grade_url': 15,
+        'grade_name': '未定级'
+    },
 }
 
 locations = {
@@ -189,18 +189,18 @@ locations = {
     #     'location_name': '陕西',
     #     'grade': grade
     # },
-    # 620000: {
-    #     'location_url': 610000,
-    #     'location_name': '甘肃',
-    #     'grade': grade
-    # },
+    620000: {
+        'location_url': 620000,
+        'location_name': '甘肃',
+        'grade': grade
+    },
     # 630000: {
-    #     'location_url': 610000,
+    #     'location_url': 630000,
     #     'location_name': '青海',
     #     'grade': grade
     # },
     # 640000: {
-    #     'location_url': 610000,
+    #     'location_url': 640000,
     #     'location_name': '宁夏',
     #     'grade': grade
     # },
